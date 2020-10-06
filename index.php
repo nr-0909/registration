@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Lab 8 </title>
+	<title>student registration</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
